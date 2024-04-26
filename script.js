@@ -30,7 +30,7 @@ const dnsServers = [{
 }, {
     name: "CleanBrowsing", url: "https://doh.cleanbrowsing.org/doh/family-filter/"
 }, {
-    name: "Cloudflare", url: "https://cloudflare-dns.com/dns-query", type: "get", allowCors: true
+    name: "Cloudflare", url: "https://x9cecvkwoz.cloudflare-gateway.com/dns-query", type: "get", allowCors: true
 }, {
     name: "ControlD", url: "https://freedns.controld.com/p0"
 }, {
