@@ -42,7 +42,7 @@ const dnsServers = [{
 }, {
     name: "Mullvad", url: "https://doh.mullvad.net/dns-query"
 }, {
-    name: "NextDNS", url: "https://dns.nextdns.io", type: "get"
+    name: "NextDNS", url: "https://dns.nextdns.io/735177", type: "get"
 }, {
     name: "OpenBLD", url: "https://ada.openbld.net/dns-query"
 }, {
